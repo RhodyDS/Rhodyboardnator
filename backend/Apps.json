@@ -1,0 +1,222 @@
+[
+  {
+    "nome": "lumosity",
+    "classe": ["genius"],
+    "area": ["pessoal"],
+    "metricas": {
+      "2023-04-19": {
+        "média": "1031",
+        "memória": "935",
+        "Velocidade": "1029",
+        "Atenção": "979",
+        "Flexibilidade": "1003",
+        "Solução de problemas": "778",
+        "Matemática": "672"
+      },
+      "2023-05-15": {
+        "média": "1120",
+        "memória": "1000",
+        "Velocidade": "930",
+        "Atenção": "1079",
+        "Flexibilidade": "1095",
+        "Solução de problemas": "872",
+        "Matemática": "744"
+      },
+      "2023-05-22": {
+        "média": "1209",
+        "memória": "1116",
+        "Velocidade": "1249",
+        "Atenção": "1179",
+        "Flexibilidade": "1187",
+        "Solução de problemas": "966",
+        "Matemática": "816"
+      },
+      "2023-05-29": {
+        "média": "1298",
+        "memória": "1150",
+        "Velocidade": "1358",
+        "Atenção": "1279",
+        "Flexibilidade": "1279",
+        "Solução de problemas": "1060",
+        "Matemática": "888"
+      },
+      "2023-06-05": {
+        "média": "1387",
+        "memória": "1298",
+        "Velocidade": "1467",
+        "Atenção": "1379",
+        "Flexibilidade": "1371",
+        "Solução de problemas": "1155",
+        "Matemática": "960"
+      },
+      "2023-06-12": {
+        "média": "1476",
+        "memória": "1389",
+        "Velocidade": "1576",
+        "Atenção": "1478",
+        "Flexibilidade": "1463",
+        "Solução de problemas": "1250",
+        "Matemática": "1032"
+      },
+      "2023-06-19": {
+        "média": "1562",
+        "memória": "1478",
+        "Velocidade": "1678",
+        "Atenção": "1574",
+        "Flexibilidade": "1557",
+        "Solução de problemas": "1359",
+        "Matemática": "1130"
+      },
+      "2023-06-26": {
+        "média": "1650",
+        "memória": "1567",
+        "Velocidade": "1779",
+        "Atenção": "1671",
+        "Flexibilidade": "1651",
+        "Solução de problemas": "1468",
+        "Matemática": "1224"
+      }
+    }
+  },
+  {
+    "nome": "duolingo",
+    "classe": ["genius"],
+    "area": ["pessoal"],
+    "metricas": {
+      "2023-04-19": {
+        "ofensiva": "8",
+        "xp": "12000"
+      },
+      "2023-05-15": {
+        "ofensiva": "17",
+        "xp": "15000"
+      },
+      "2023-05-22": {
+        "ofensiva": "27",
+        "xp": "18000"
+      },
+      "2023-05-29": {
+        "ofensiva": "38",
+        "xp": "21000"
+      },
+      "2023-06-05": {
+        "ofensiva": "50",
+        "xp": "24000"
+      },
+      "2023-06-12": {
+        "ofensiva": "63",
+        "xp": "27000"
+      },
+      "2023-06-19": {
+        "ofensiva": "77",
+        "xp": "30000"
+      },
+      "2023-06-26": {
+        "ofensiva": "4",
+        "xp": "33000"
+      }
+    }
+  },
+  {
+    "nome": "flip",
+    "classe": ["genius"],
+    "area": ["profissional"],
+    "metricas": {
+      "2023-04-19": {
+        "Diária": "00:11:03",
+        "Semanal": "03:16:07",
+        "Mensal": "25:38:17"
+      },
+      "2023-05-15": {
+        "Diária": "00:11:30",
+        "Semanal": "03:27:34",
+        "Mensal": "28:16:10"
+      },
+      "2023-05-22": {
+        "Diária": "00:11:57",
+        "Semanal": "03:38:01",
+        "Mensal": "30:54:03"
+      },
+      "2023-05-29": {
+        "Diária": "00:12:24",
+        "Semanal": "03:49:28",
+        "Mensal": "33:31:56"
+      },
+      "2023-06-05": {
+        "Diária": "00:12:51",
+        "Semanal": "03:59:55",
+        "Mensal": "36:09:41"
+      },
+      "2023-06-12": {
+        "Diária": "00:13:18",
+        "Semanal": "04:10:22",
+        "Mensal": "38:47:26"
+      },
+      "2023-06-19": {
+        "Diária": "00:13:45",
+        "Semanal": "04:20:38",
+        "Mensal": "41:25:11"
+      },
+      "2023-06-26": {
+        "Diária": "00:14:12",
+        "Semanal": "04:30:55",
+        "Mensal": "44:02:57"
+      }
+    }
+  },
+  {
+    "nome": "Xadrez",
+    "classe": ["genius"],
+    "area": ["pessoal"],
+    "metricas": {
+      "2023-04-19": {
+        "partidas": "548",
+        "Rápida": "694",
+        "Blitz": "463",
+        "Bullet": "381"
+      },
+      "2023-05-15": {
+        "partidas": "579",
+        "Rápida": "630",
+        "Blitz": "472",
+        "Bullet": "393"
+      },
+      "2023-05-22": {
+        "partidas": "610",
+        "Rápida": "680",
+        "Blitz": "503",
+        "Bullet": "418"
+      },
+      "2023-05-29": {
+        "partidas": "642",
+        "Rápida": "741",
+        "Blitz": "535",
+        "Bullet": "442"
+      },
+      "2023-06-05": {
+        "partidas": "673",
+        "Rápida": "793",
+        "Blitz": "566",
+        "Bullet": "466"
+      },
+      "2023-06-12": {
+        "partidas": "704",
+        "Rápida": "845",
+        "Blitz": "598",
+        "Bullet": "490"
+      },
+      "2023-06-19": {
+        "partidas": "736",
+        "Rápida": "896",
+        "Blitz": "629",
+        "Bullet": "518"
+      },
+      "2023-06-26": {
+        "partidas": "767",
+        "Rápida": "947",
+        "Blitz": "660",
+        "Bullet": "544"
+      }
+    }
+  }
+]
